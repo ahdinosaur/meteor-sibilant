@@ -1,0 +1,9 @@
+{
+  "name": "sibilant",
+  "description": "support for sibilant: javascript with a lisp",
+  "homepage": "https://github.com/ahdinosaur/meteor-sibilant",
+  "author": "Michael Williams",
+  "version": "0.0.1",
+  "git": "https://github.com/ahdinosaur/meteor-sibilant.git",
+  "packages": {}
+}
